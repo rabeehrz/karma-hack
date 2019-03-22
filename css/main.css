@@ -1,0 +1,88 @@
+#mapid {
+  height: 500px; 
+}
+
+
+.note {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.btn-warning {
+    color: white;
+}
+.btn-warning {
+    color: white;
+}
+.btn-orange {
+    background-color: #fd7e14;
+    border-color:  #fd7e14;
+    color: white;
+}
+.btn-orange:hover {
+    color: #fff;
+    background-color: #ce7400;
+    border-color: #ce7400;
+  }
+  
+.btn-orange:focus, .btn-orange.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 159, 35, 0.5);
+}
+
+.btn-danger {
+    line-height: 5;
+}
+
+.btn-orange {
+    line-height: 3;
+}
+
+.btn-warning {
+    line-height: 2;
+}
+
+.wrapper {
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100vh;
+  }
+  
+  @media (min-width: 576px) {
+    .wrapper {
+      max-width: 540px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .wrapper {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .wrapper {
+      max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .wrapper {
+      max-width: 1140px;
+    }
+  }
+.btncontainer {
+    margin: 50px 0;
+}
+
+.heading {
+  margin-bottom: 50px;
+  align-self: center;
+}
+
+.wrapper .heading {
+  text-align: center;
+  font-weight: bold;
+}

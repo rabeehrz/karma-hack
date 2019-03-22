@@ -1,0 +1,20 @@
+Find a solution to help to reduce the impact of hazards of natural calamities.
+
+-Predict and Avoid
+-Technological Solution
+
+Grading criteria {
+	-Clarity of Concept
+		-Unique
+	-Viability fo the idea/soltuion
+	-Innovation Involed
+	-USP
+		-Unique Selling point
+		-Scalable, Sellable
+	-Prototype Ready
+	-User Experience
+		-Minimilistic Design
+	-Open Source Libraries
+}
+
+
